@@ -1,0 +1,14 @@
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\bin\Debug\net8.0\SistemaVenta.Entity.deps.json
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\bin\Debug\net8.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\bin\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\bin\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\obj\Debug\net8.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\obj\Debug\net8.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\obj\Debug\net8.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\obj\Debug\net8.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\obj\Debug\net8.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\obj\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\obj\Debug\net8.0\refint\SistemaVenta.Entity.dll
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\obj\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\obj\Debug\net8.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVentasEntity\obj\Debug\net8.0\ref\SistemaVenta.Entity.dll

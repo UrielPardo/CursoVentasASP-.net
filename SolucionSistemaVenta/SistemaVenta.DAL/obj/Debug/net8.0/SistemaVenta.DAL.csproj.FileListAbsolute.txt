@@ -1,0 +1,15 @@
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.deps.json
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\refint\SistemaVenta.DAL.dll
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\ref\SistemaVenta.DAL.dll
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\USR\Desktop\Curso Ventas ASP.net\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaV.EE7A9206.Up2Date
