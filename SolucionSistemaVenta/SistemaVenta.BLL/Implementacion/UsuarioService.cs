@@ -120,6 +120,7 @@ namespace SistemaVenta.BLL.Implementacion
                 usuario_editar.Correo = entidad.Correo;
                 usuario_editar.Telefono = entidad.Telefono;
                 usuario_editar.IdRol = entidad.IdRol;
+                usuario_editar.EsActivo = entidad.EsActivo;
 
                 if (usuario_editar.NombreFoto == "")
                     usuario_editar.NombreFoto = NombreFoto;
@@ -253,7 +254,7 @@ namespace SistemaVenta.BLL.Implementacion
                 bool correo_enviado = false;
 
                 if (htmlCorreo != "")
-                    await _correoService.EnviarCorreo(correo, "Contraseña reestablecida", htmlCorreo);
+                    correo_enviado = await _correoService.EnviarCorreo(correo, "Contraseña reestablecida", htmlCorreo);
 
                 if(!correo_enviado)
                     throw new TaskCanceledException("Correo no enviado. Por favor intenta de nuevo mas tarde");

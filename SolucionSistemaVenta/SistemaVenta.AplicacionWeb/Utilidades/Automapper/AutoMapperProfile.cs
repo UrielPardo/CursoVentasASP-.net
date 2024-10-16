@@ -48,6 +48,7 @@ namespace SistemaVenta.AplicacionWeb.Utilidades.Automapper
                     opt => opt.MapFrom(origen => Convert.ToDecimal(origen.PorcentajeImpuesto, new CultureInfo("es-AR")))
                 );
             #endregion
+           
 
             #region Categoria
             CreateMap<Categoria, VMCategoria>()

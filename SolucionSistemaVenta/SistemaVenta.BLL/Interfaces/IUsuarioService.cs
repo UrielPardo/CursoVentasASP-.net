@@ -15,8 +15,8 @@ namespace SistemaVenta.BLL.Interfaces
         Task<bool> Eliminar(int idUsuario);
         Task<Usuario> ObtenerPorCredenciales(string correo, string clave);
         Task<Usuario> ObtenerPorId(int idUsusario);
-        Task<bool> GuardarPerfil(int entidad);
-        Task<bool> CambiarClave(int idUsuario, int claveActual, string claveNueva);
+        Task<bool> GuardarPerfil(Usuario entidad);
+        Task<bool> CambiarClave(int idUsuario, string claveActual, string claveNueva);
         Task<bool> RestablecerClave(string correo, string UrlPlantillaCorreo);
 
     }

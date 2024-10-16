@@ -5,11 +5,11 @@ namespace SistemaVenta.Entity;
 
 public partial class Menu
 {
-    public Menu()
+    /*public Menu()
     {
         //InverseIdMenuPadreNavigation = new HashSet<Menu>;
         RolMenus = new HashSet<RolMenu>();
-    }
+    }*/
     public int IdMenu { get; set; }
 
     public string? Descripcion { get; set; }

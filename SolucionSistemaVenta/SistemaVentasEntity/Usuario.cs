@@ -5,10 +5,10 @@ namespace SistemaVenta.Entity;
 
 public partial class Usuario
 {
-    public Usuario()
+   /* public Usuario()
     {
         Venta = new HashSet<Venta>();
-    }
+    }*/
     public int IdUsuario { get; set; }
     public string? Nombre { get; set; }
     public string? Correo { get; set; }
