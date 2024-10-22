@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\negociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\negociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\negocio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\negocio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\negocio_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\negocio_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F552EC0F-4E69-4ECE-835F-7B222331608F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\negocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F552EC0F-4E69-4ECE-835F-7B222331608F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\negocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F552EC0F-4E69-4ECE-835F-7B222331608F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\inegocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F552EC0F-4E69-4ECE-835F-7B222331608F}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\inegocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\usr\\desktop\\cursoventasasp-.net\\cursoventasasp-.net\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33B2B17-7CA0-45A4-B9B1-2BBCF48796A1}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Negocio\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Negocio\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Negocio\\Index.cshtml",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Negocio\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T22:55:47.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NegocioController.cs",
-              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
-              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwEAAAAAXAAAAAAAAAA==",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T22:47:06.782Z",
+              "WhenOpened": "2024-10-22T19:57:15.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NegocioService.cs",
-              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\NegocioService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\NegocioService.cs",
-              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\NegocioService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\NegocioService.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwAwAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T22:39:03.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "INegocioService.cs",
-              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\INegocioService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\INegocioService.cs",
-              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\INegocioService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\INegocioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T22:36:09.423Z",
+              "WhenOpened": "2024-10-22T19:57:05.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Negocio_Index.js",
-              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Negocio_Index.js",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Negocio_Index.js",
-              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Negocio_Index.js",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Negocio_Index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-16T22:31:45.555Z",
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:56:48.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NegocioController.cs",
+              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
+              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\NegocioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:56:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:55:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:55:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:54:11.534Z",
               "EditorCaption": ""
             }
           ]

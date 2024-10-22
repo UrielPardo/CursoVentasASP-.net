@@ -527,3 +527,7 @@ C:\Users\USR\Desktop\CursoVentasASP-.net\CursoVentasASP-.net\SolucionSistemaVent
 C:\Users\USR\Desktop\CursoVentasASP-.net\CursoVentasASP-.net\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\obj\Debug\net8.0\ref\SistemaVenta.AplicacionWeb.dll
 C:\Users\USR\Desktop\CursoVentasASP-.net\CursoVentasASP-.net\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\USR\Desktop\CursoVentasASP-.net\CursoVentasASP-.net\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USR\Desktop\CursoVentasASP-.net\CursoVentasASP-.net\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net8.0\Utilidades\LibreriaPDF\libwkhtmltox.dll
+C:\Users\USR\Desktop\CursoVentasASP-.net\CursoVentasASP-.net\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net8.0\Utilidades\LibreriaPDF\libwkhtmltox.dylib
+C:\Users\USR\Desktop\CursoVentasASP-.net\CursoVentasASP-.net\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net8.0\Utilidades\LibreriaPDF\libwkhtmltox.so
+C:\Users\USR\Desktop\CursoVentasASP-.net\CursoVentasASP-.net\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net8.0\DinkToPdf.dll

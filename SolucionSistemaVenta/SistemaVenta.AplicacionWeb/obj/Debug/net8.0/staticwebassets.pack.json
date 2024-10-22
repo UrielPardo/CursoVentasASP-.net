@@ -49,8 +49,32 @@
       "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
     },
     {
+      "Id": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Categoria_Index.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Categoria_Index.js"
+    },
+    {
+      "Id": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\DashBoard_Index.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\DashBoard_Index.js"
+    },
+    {
+      "Id": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Historial_Venta.js"
+    },
+    {
       "Id": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Negocio_Index.js",
       "PackagePath": "staticwebassets\\js\\vistas\\Negocio_Index.js"
+    },
+    {
+      "Id": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\NuevaVenta.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\NuevaVenta.js"
+    },
+    {
+      "Id": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Producto_Index.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Producto_Index.js"
+    },
+    {
+      "Id": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Reporte_Index.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Reporte_Index.js"
     },
     {
       "Id": "C:\\Users\\USR\\Desktop\\CursoVentasASP-.net\\CursoVentasASP-.net\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Usuario_Index.js",

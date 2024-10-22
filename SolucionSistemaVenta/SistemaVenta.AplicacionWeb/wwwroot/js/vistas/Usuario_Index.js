@@ -115,7 +115,7 @@ $("#btnGuardar").click(function () {
     modelo["nombre"] = $("#txtNombre").val()
     modelo["correo"] = $("#txtCorreo").val()
     modelo["telefono"] = $("#txtTelefono").val()
-    modelo["idROl"] = $("#cboRol").val()
+    modelo["idRol"] = $("#cboRol").val()
     modelo["esActivo"] = $("#cboEstado").val()
 
     const inputFoto = document.getElementById("txtFoto")
@@ -185,16 +185,16 @@ $("#tbdata tbody").on("click", ".btn-editar", function () {
 $("#tbdata tbody").on("click", ".btn-eliminar", function () {
     let fila;
     if ($(this).closest("tr").hasClass("child")) {
-        filaSeleccionada = $(this).closest("tr").prev();
+        fila = $(this).closest("tr").prev();
     } else {
-        filaSeleccionada = $(this).closest("tr");
+        fila = $(this).closest("tr");
     }
 
     const data = tablaData.row(fila).data();
 
     swal({
         title: "¿Estas seguro?",
-        text: `Eliminar usuario "${data.nombre}"`,
+        text: `Eliminar el usuario "${data.nombre}"`,
         type: "warning",
         showCancelButton: true,
         confirmButtonClass: "btn-danger",
@@ -204,24 +204,28 @@ $("#tbdata tbody").on("click", ".btn-eliminar", function () {
         closeOnCancel: true
     },
         function (respuesta) {
-            $(".showSweetAlert").LoadingOverlay("show");
-            fetch(`/Usuario/Elininar?IdUsuario=${data.idUsuario}`, {
-                method: "DELETE"
-            })
-                .then(response => {
-                    $(".showSweetAlert").LoadingOverlay("hide");
-                    return response.ok ? response.json() : Promise.reject(response);
-                })
-                .then(responseJson => {
-                    if (responseJson.estado) {
 
-                        tablaData.row(fila).remove().draw()
-                        swal("Listo!", "El usuario fue eliminado", "success")
-
-                    } else {
-                        swal("Lo sentimos!", responseJson.mensaje, "error")
-                    }
+            if (respuesta) {
+                $(".showSweetAlert").LoadingOverlay("show");
+                fetch(`/Usuario/Eliminar?IdUsuario=${data.idUsuario}`, {
+                    method: "DELETE"
                 })
+                    .then(response => {
+                        $(".showSweetAlert").LoadingOverlay("hide");
+                        return response.ok ? response.json() : Promise.reject(response);
+                    })
+                    .then(responseJson => {
+                        if (responseJson.estado) {
+
+                            tablaData.row(fila).remove().draw()
+                            swal("Listo!", "El usuario fue eliminado", "success")
+
+                        } else {
+                            swal("Lo sentimos!", responseJson.mensaje, "error")
+                        }
+                    })
+            }
+            
         }
 
     )

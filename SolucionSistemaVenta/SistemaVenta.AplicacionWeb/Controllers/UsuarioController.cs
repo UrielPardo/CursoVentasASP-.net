@@ -9,9 +9,11 @@ using SistemaVenta.Entity;
 using System.Drawing.Text;
 using System.Configuration;
 using Newtonsoft.Json;
+using Microsoft.AspNetCore.Authorization;
 
 namespace SistemaVenta.AplicacionWeb.Controllers
 {
+    [Authorize]
     public class UsuarioController : Controller
     {
         private readonly IUsuarioService _usuarioServicio;
